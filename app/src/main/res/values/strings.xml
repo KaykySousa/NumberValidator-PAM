@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Validator</string>
+    <string name="title">Digite os valores:</string>
+    <string name="hint1">Digite o 1º valor</string>
+    <string name="hint2">Digite o 2º valor</string>
+    <string name="button">Validar</string>
+</resources>
